@@ -1,5 +1,5 @@
 👋 Hi, I’m Dhyan Patel <br/>
-🌱 first year student <br/> 
+<br/>
 Please do not start an argument with me, because I will lose.
 
 
