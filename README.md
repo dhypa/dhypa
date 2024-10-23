@@ -1,6 +1,6 @@
 👋 Hi, I’m Dhyan Patel <br/>
 <br/>
-Please do not start an argument with me, because I will lose.
+yeah im always right, right on the verge of insanity
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhypa&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
